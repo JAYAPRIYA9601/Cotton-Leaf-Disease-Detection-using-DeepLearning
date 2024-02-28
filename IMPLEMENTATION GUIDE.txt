@@ -1,0 +1,22 @@
+TOPIC-Cotton Leaf Disease Detection using DeepLearning
+ABOUT-Deep Learning model using Convolutional Neural Networks which can detect the diseased cotton leaf i.e., to classify whether a given cotton leaf is fresh or diseased. This is a binary classification task as there are 2 different classes.
+DATASETS-Total Images:800+
+----------------
+INSTALL
+----------------
+PYTHON 3.11
+
+IMPLEMENTATION
+----------------
+1.EXTRACT ZIP FILE
+2.OPEN FILE DIRECTORY IN CMD (COMMAND PROMPT)
+3.AFTER OPENING CMD 
+c:/hp:/:Cotton Leaf Disease Detection using DeepLearning-(now type)
+
+pip install -r requirements.txt
+
+python app.py
+
+4.NOW ITS RUNNING COPY AND PASTE URL IN BROWSER
+
+http://localhost:5000/
